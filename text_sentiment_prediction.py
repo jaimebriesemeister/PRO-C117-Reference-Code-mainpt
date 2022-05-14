@@ -35,7 +35,7 @@ emo_code_url = {
     "amor": [6, "./static/assets/emoticons/Love.png"],
     "diversão": [7, "./static/assets/emoticons/fun.png"],
     "ódio": [8, "./static/assets/emoticons/hate.png"],
-    "happiness": [9, "./static/assets/emoticons/happiness.png"],
+    "felicidade": [9, "./static/assets/emoticons/happiness.png"],
     "tédio": [10, "./static/assets/emoticons/boredom.png"],
     "alívio": [11, "./static/assets/emoticons/relief.png"],
     "raiva": [12, "./static/assets/emoticons/anger.png"]
